@@ -1,0 +1,2 @@
+SELECT * FROM contratos
+WHERE sueldo >= 2000 AND cuit IN('30-10504876-5', '30-21098732-4')
